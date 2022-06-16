@@ -1,3 +1,5 @@
+## Descargo y procedo a revisar y calificar.
+
 import doctores.acciones
 print("Samara Castro Flores 9°A")
 print("""
